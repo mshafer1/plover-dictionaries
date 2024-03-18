@@ -1,0 +1,12 @@
+{
+"STPHAOS": "ensues",
+"STPHAOZ": "ensues",
+"SP*": "{^}{#Space}",
+"TPAPL/HRAOE": "family",
+"KW-BG": "{^},{#Space}",
+"KR-GS": "{^\"^}",
+"PHRA*EU": "{#AudioPlay}",
+"PHR*UP": "{plover:lookup}",
+"HRO*ER": "{:case:lower_first_char}",
+"APB/SEUBL": "ansible"
+}
